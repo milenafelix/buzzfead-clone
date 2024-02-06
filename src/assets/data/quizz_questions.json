@@ -1,0 +1,51 @@
+{
+  "title": "Qual piloto de Fórmula 1 você seria?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual característica é mais importante para você em um piloto de Fórmula 1?",
+      "options": [
+        { "id": 1, "name": "Velocidade", "alias": "A" },
+        { "id": 2, "name": "Técnica", "alias": "B" },
+        { "id": 3, "name": "Determinação", "alias": "C" },
+        { "id": 4, "name": "Estratégia", "alias": "D" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Como você lida com a pressão?",
+      "options": [
+        { "id": 1, "name": "Eu a encaro de frente", "alias": "A" },
+        { "id": 2, "name": "Eu a administro com calma", "alias": "B" },
+        { "id": 3, "name": "Eu a ignoro e sigo em frente", "alias": "C" },
+        { "id": 4, "name": "Eu me adapto rapidamente", "alias": "D" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Qual é a sua abordagem em relação aos adversários durante uma corrida?",
+      "options": [
+        { "id": 1, "name": "Competitivo e agressivo", "alias": "A" },
+        { "id": 2, "name": "Respeitoso e estratégico", "alias": "B" },
+        { "id": 3, "name": "Determinado a superá-los a qualquer custo", "alias": "C" },
+        { "id": 4, "name": "Calculista e astuto", "alias": "D" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Como você descreveria seu estilo de pilotagem?",
+      "options": [
+        { "id": 1, "name": "Arrojado e agressivo", "alias": "A" },
+        { "id": 2, "name": "Preciso e técnico", "alias": "B" },
+        { "id": 3, "name": "Determinado e incansável", "alias": "C" },
+        { "id": 4, "name": "Estratégico e calculista", "alias": "D" }
+      ]
+    }
+  ],
+  "results": {
+    "A": "Com base em suas escolhas predominantemente impulsivas e voltadas para a ação, você seria como Lewis Hamilton, um piloto veloz e agressivo, sempre pronto para superar os desafios!",
+    "B": "Com base em suas escolhas predominantemente técnicas e estratégicas, você seria como Sebastian Vettel, um piloto técnico e estratégico, capaz de manter a calma em situações de pressão.",
+    "C": "Com base em suas escolhas predominantemente determinadas e agressivas, você seria como Max Verstappen, um piloto determinado e agressivo, sempre buscando a vitória a todo custo!",
+    "D": "Com base em suas escolhas predominantemente calculadas e estratégicas, você seria como Fernando Alonso, um piloto astuto e calculista, capaz de superar qualquer adversidade com sua inteligência e estratégia."
+}
+}
